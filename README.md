@@ -1,6 +1,8 @@
 # Topolog-as
 Usadas en Red 
-https://solvasquez.files.wordpress.com/2010/08/topologia.jpg
+
+"https://solvasquez.files.wordpress.com/2010/08/topologia.jpg"
+
 La topología de red se define como la cadena de comunicación usada por los nodos que conforman una red para comunicarse. Un ejemplo claro de esto es la topología de árbol, la cual es llamada así por su apariencia estética, por la cual puede comenzar con la inserción del servicio de internet desde el proveedor, pasando por el router, luego por un switch y este deriva a otro switch u otro router o sencillamente a los hosts (estaciones de trabajo), el resultado de esto es una red con apariencia de árbol porque desde el primer router que se tiene se ramifica la distribución de internet dando lugar a la creación de nuevas redes o subredes tanto internas como externas. Además de la topología estética, se puede dar una topología lógica a la red y eso dependerá de lo que se necesite en elmomento.
 
 
